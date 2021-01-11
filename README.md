@@ -7,4 +7,4 @@ It takes the feed from the webcam and finds the locations of the eyes. After loc
 Practically the performance is highly sensitive to how lit the room is.
 
 ### Dependency:
-You can download the model file (hape_predictor_68_face_landmarks.dat) for dlib from this link: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+You can download the model file (*shape_predictor_68_face_landmarks.dat*) for dlib from this link: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
